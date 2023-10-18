@@ -4,7 +4,7 @@ import React from 'react'
 const App = () => {
   return (
     <View>
-      <Text>Hello World im Shankar React Native Developer for Android</Text>
+      <Text>Hello World im Shankar React Native Developer</Text>
     </View>
   )
 }
